@@ -33,4 +33,4 @@ public class Latihan_C {
         buku_java.InfoBuku("buku java", 60000, 120);
         buku_java.outputInfoBuku();        
     }
-}
+} 
