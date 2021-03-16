@@ -21,7 +21,7 @@ class buku {
     public void outputInfoBuku() {
         
         System.out.println("Informasi Buku");
-        System.out.println("Judul Buku = " + judul);
+        System.out.println("Judul Buku : " + judul);
         System.out.println("Harga buku : " + harga);
         System.out.println("Jumlah halaman : " + halaman);     
     }   
