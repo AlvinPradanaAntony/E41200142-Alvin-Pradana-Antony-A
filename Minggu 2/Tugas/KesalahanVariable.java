@@ -22,10 +22,10 @@ public class KesalahanVariable {
         short number1;
         
         // Pedeklarasi variabel yang salah
-//        int 2beOrNot2be;
-//        float price index;
-//        double lastYear'sPrice;
-//        long class;
+        int 2beOrNot2be;
+        float price index;
+        double lastYear'sPrice;
+        long class;
     }
     
 }
