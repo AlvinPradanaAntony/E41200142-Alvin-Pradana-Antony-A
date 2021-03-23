@@ -20,4 +20,4 @@ public class Tugas_A_Array1D {
         System.out.println("");
     }
     
-}
+} 
