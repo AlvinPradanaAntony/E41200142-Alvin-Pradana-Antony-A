@@ -50,4 +50,4 @@ public class Latihan_b1_ConditionalStatement {
         System.out.println("Grade\t\t: " + grade);
     }
     
-}
+} 
