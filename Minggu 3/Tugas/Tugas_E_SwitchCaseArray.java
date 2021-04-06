@@ -60,4 +60,4 @@ public class Tugas_E_SwitchCaseArray {
                 + nama + " telah berkunjung di CAFE CERIA");
 
     }
-}
+} 

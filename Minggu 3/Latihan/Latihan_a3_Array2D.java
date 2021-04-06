@@ -22,4 +22,4 @@ public class Latihan_a3_Array2D {
         System.out.println("  ");
         }
     }
-}
+} 

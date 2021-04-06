@@ -43,4 +43,4 @@ public class Latihan_b2_ConditionalStatement {
         }
     }
 
-}
+} 

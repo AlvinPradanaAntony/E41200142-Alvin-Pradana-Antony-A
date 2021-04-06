@@ -29,4 +29,4 @@ public class Tugas_B_DeretanArrayAcak {
         System.out.println("Hasil Array Acak\t\t: " + Arrays.toString(array));
 
     }
-}
+} 

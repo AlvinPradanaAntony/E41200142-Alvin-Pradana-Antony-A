@@ -26,4 +26,4 @@ public class Latihan_a2_Array1D {
             System.out.print(" ");
         }
     }
-}
+} 

@@ -54,4 +54,4 @@ public class Tugas_D_ArrayDataPembelian {
         System.out.println("|    Anda sudah belanja di Kharisma Agung Plaza   |");
         System.out.println("---------------------------------------------------");
     }
-}
+} 

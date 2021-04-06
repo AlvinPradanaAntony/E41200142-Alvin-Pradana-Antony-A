@@ -18,4 +18,4 @@ public class Tugas_C_Array2D {
         }
     }
 
-}
+} 
