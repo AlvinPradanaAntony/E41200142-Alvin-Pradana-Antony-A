@@ -83,7 +83,7 @@ public class Graph {
 
     public int getAdjUnvisitedVertex(int v) {
         for (int i = 0; i < nVerts; i++) {
-            if (adjMat[v][i] == 1 && vertexList[1].wasVisited == false) {
+            if (adjMat[v][i] == 1 && vertexList[i].wasVisited == false) {
                 return i;
             }
         }
