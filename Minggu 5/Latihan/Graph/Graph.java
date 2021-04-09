@@ -95,4 +95,4 @@ public class Graph {
             vertexList[i].wasVisited = false;
         }
     }
-}
+} 
