@@ -17,4 +17,4 @@ public class Vertex {
         this.label = label; 
         wasVisited = false;
     }
-}
+} 
