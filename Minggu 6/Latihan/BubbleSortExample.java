@@ -14,8 +14,12 @@ public class BubbleSortExample {
     static void bubbleSort(int[] arr) {
         int n = arr.length;
         int temp = 0;
+
+        System.out.println("");
+        System.out.println("Proses Perbandingan dalam Bubble Sorting");
         for (int i = 0; i < n; i++) {
             for (int j = 1; j < (n - i); j++) {
+                System.out.println(" A : " + arr[j - 1] + " > B : " + arr[j]);
                 if (arr[j - 1] > arr[j]) {
                     //swap elements
                     temp = arr[j - 1];
@@ -24,6 +28,7 @@ public class BubbleSortExample {
                 }
             }
         }
+        System.out.println("");
     }
 
     public static void main(String[] args) {
@@ -41,4 +46,4 @@ public class BubbleSortExample {
         }
         System.out.println("");
     }
-}
+} 
